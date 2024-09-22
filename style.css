@@ -1,0 +1,27 @@
+.container{
+    height: 30px;
+    width: 50%;    
+    padding: 30px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center    ;
+    margin-top: 90px;
+}
+body{
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+    justify-content: center    ;
+}
+button{
+    padding: 30px;
+}
+.img01{
+    height: 100px;
+}
+.btn02{
+    margin-top: 10px;
+    padding: 10px;
+}
